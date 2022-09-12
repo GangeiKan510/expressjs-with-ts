@@ -1,0 +1,30 @@
+input {
+    background-color: #d0ebf7;
+    border-color: #4287f5;
+    border-radius: 5px;
+    font-size: medium;
+    padding: 5px;
+}
+
+button {
+    background-color: #d0ebf7;
+    border-color: #4287f5;
+    border-radius: 5px;
+    height: 30px;
+    width: 150px;
+} 
+
+body {
+    font-family: 'Candara';
+}
+
+input {
+    margin-bottom: 1rem;
+}
+
+.login-form {
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-right: 80%;
+    padding: 2rem;
+}
